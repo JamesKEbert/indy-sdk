@@ -15,7 +15,7 @@
     "ios": "10.0"
   },
   "source": {
-    "http": "https://drive.google.com/uc?export=download&id=1T4haYSR3V_Y6lt2K4uxhsTj8bPvB9Nwq"
+    "http": "https://sfo3.digitaloceanspaces.com/james-ebert-indy-sdk/libindy.tar.gz"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
