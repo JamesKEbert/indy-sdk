@@ -15,7 +15,7 @@
     "ios": "10.0"
   },
   "source": {
-    "http": "https://repo.sovrin.org/ios/libindy/stable/libindy-core/1.16.1/libindy.tar.gz"
+    "http": "https://drive.google.com/uc?export=download&id=1T4haYSR3V_Y6lt2K4uxhsTj8bPvB9Nwq"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
